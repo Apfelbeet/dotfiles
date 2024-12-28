@@ -1,0 +1,15 @@
+[init]
+  defaultBranch = main
+
+[user]
+	name = Matthias Jugan
+	email = matthias.jugan@booleworks.com
+
+[github]
+  user = torgeir
+
+[log]
+  date = iso
+
+[core]
+	excludesfile = ~/.gitignore_global
